@@ -1,0 +1,160 @@
+body{
+background: cornsilk;
+}
+
+
+
+.container {
+    position:relative;
+    top: 10%;
+    left: 8%;
+    transform:translate(-10%, -8%);
+}
+
+h1 {font-family: "Bentham", serif;
+    font-size: 80pt;
+    font-style:normal;
+    position: absolute;
+    top: 5px;
+    left: 445px;
+    color:#FFFFFF;
+}
+
+
+h2{
+    position: relative;
+    font-size: 20pt;
+    left: 425px;
+    top: 15px;
+    font-family: serif
+    
+}
+
+h3{
+    position:relative;
+    top: 10px;
+    font-size: 20pt;
+    font-family: serif;
+    text-align: center;
+    
+}
+
+.first {
+    position: relative;
+    font-size: 12pt;
+    left:380px;
+    top: 20px;
+    width: 350px;
+}
+
+ul{
+    list-style: none
+}
+
+
+.second {
+    position:relative;
+    left: 820px;
+    top: -87px;
+    font-family: serif;
+    font-size: 12pt;
+    width: 300px;
+}
+
+ .firstnumber {
+    position: relative;
+    font-size: 35pt;
+     left: 5px;
+    
+}
+
+.firststep {
+    font-size: 12pt;
+    position: relative;
+    top: -35px;
+    left: 45px;
+}
+
+.secondnumber {
+    position:relative;
+    font-size: 35pt;
+    left: 5px;
+}
+
+.secondstep {
+    font-size: 12pt;
+    position: relative;
+    top: -33px;
+    left: 45px;
+}
+
+.thirdnumber {
+    position: relative;
+    font-size: 35pt;
+    left: 5px;
+}
+
+.thirdstep{
+    font-size: 12pt;
+    position: relative;
+    top: -40px;
+    left: 45px;
+    width: 1350px;
+}
+
+.fourthnumber {
+     position: relative;
+    font-size: 35pt;
+    left: 5px;
+    
+}
+
+.fourthstep {
+    font-size: 12pt;
+    position: relative;
+    top: -40px;
+    left: 45px; 
+    width: 1350px;
+}
+
+.fifthnumber {
+    position: relative;
+    font-size: 35pt;
+    left: 5px;
+}
+
+.fifthstep {
+   font-size: 12pt;
+    position: relative;
+    top: -40px;
+    left: 45px;  
+    width: 1350px;
+}
+
+.sixthnumber {
+    position: relative;
+    font-size: 35pt;
+    left: 5px;
+}
+
+.sixthstep {
+   font-size: 12pt;
+    position: relative;
+    top: -40px;
+    left: 45px; 
+    width: 1350px;
+}
+
+.seventhnumber {
+     position: relative;
+    font-size: 35pt;
+    left: 5px;
+}
+
+.seventhstep {
+    font-size: 12pt;
+    position: relative;
+    top: -40px;
+    left: 45px; 
+    width: 1350px;
+}
